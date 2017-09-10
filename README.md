@@ -1,3 +1,14 @@
+install dependencies
+
+npm install
+
+Start Angular application
+ng serve --open
+
+
+
+
+
 # MyApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.1.

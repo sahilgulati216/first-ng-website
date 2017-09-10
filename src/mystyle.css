@@ -1,0 +1,25 @@
+
+ul.nav.navbar-nav {
+    list-style: none;
+    font-size: 20px;
+    color: black;
+    text-decoration: none;
+}
+
+ul.nav.navbar-nav li {
+
+    padding-top: 15px;
+    padding-bottom: 15px;
+    display: inline-block;
+}
+
+ul.nav.navbar-nav li a {
+       color: white;
+    text-decoration: none;
+    padding: 15px;
+    font-family: cursive;
+}
+
+ul.nav.navbar-nav li a.active {
+    background: rgba(195, 0, 47, 0.38);
+}
